@@ -67,7 +67,9 @@ object WordTransformer extends App {
             None
           case head :: tail =>
             val key = mkKey(head)
-            val matches = wordMap.get(key)
+            val matches = wordMap
+              .get(key)
+              .filterNot(_.forall(words.contains(_)))
               .flatMap(Random.shuffle(_).headOption)
               .toList
             findMatch(tail, matches ++ matchesFound)
