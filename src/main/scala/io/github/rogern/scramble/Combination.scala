@@ -7,14 +7,14 @@ object RunCombination extends App {
 object Combination {
 
   def combinationUtil(
-                       arr: Array[Int],
-                       data: Array[Int],
-                       start: Int,
-                       end: Int,
-                       index: Int,
-                       splitCount: Int,
-                       result: List[List[Int]] = List.empty
-                     ): List[List[Int]] = {
+    arr: Array[Int],
+    data: Array[Int],
+    start: Int,
+    end: Int,
+    index: Int,
+    splitCount: Int,
+    result: List[List[Int]] = List.empty
+  ): List[List[Int]] = {
 
     if (index == splitCount) {
       result :+ (0 until splitCount)
