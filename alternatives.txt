@@ -5,7 +5,7 @@ Chrissy Teigen
 Reese Witherspoon
 Robert Downey Jr
 Tom Brady
-Margaret Atwood
+Agatha Christie
 Emily Blunt
 Shawn Mendes
 Bill Gates
@@ -23,10 +23,10 @@ LeBron James
 Leonardo DiCaprio
 Warren Buffett
 Martha Stewart
-Vincent Cassel
+Tim Burton
 Ava DuVernay
 Quentin Tarantino
-Bernard Arnault
+Mark Twain
 Reed Hastings
 Jennifer Aniston
 Keira Knightley
@@ -37,8 +37,8 @@ Simon Cowell
 Jeff Bezos
 Gordon Ramsay
 Jack Dorsey
-Stephen Colbert
-Travis Scott
+David Letterman
+Kendrick Lamar
 Christian Bale
 Steve Jobs
 Tom Hanks
@@ -49,7 +49,7 @@ Gal Gadot
 Harrison Ford
 Tiger Woods
 Lady Gaga
-Neil Gaiman
+Terry Pratchett
 Martin Scorsese
 Harry Styles
 Megan Rapinoe
@@ -57,15 +57,14 @@ Ed Sheeran
 Emma Watson
 Trevor Noah
 James Corden
-Florence Pugh
+David Harbour
 Meryl Streep
 Margot Robbie
 Nicole Kidman
 Christopher Nolan
-Colleen Hoover
+Blacke Lively
 Carlos Ghosn
 Steven Spielberg
-The Weeknd
 Post Malone
 Natalie Dormer
 Chris Hemsworth
@@ -92,10 +91,11 @@ Chris Pratt
 Amy Poehler
 Brad Pitt
 Addison Rae
-Jordan Peterson
-Patrick Mahomes
+Tom Jones
+Oscar Isaac
+Adam Driver
 John Green
-Jordan Peele
+Martin Luther King
 Katy Perry
 Ricky Gervais
 Dwayne Johnson
@@ -103,7 +103,7 @@ Kendall Jenner
 John Krasinski
 Jessica Alba
 Simone Biles
-Sheryl Sandberg
+Sheryl Crow
 Kim Kardashian
 Natalie Portman
 Zadie Smith
@@ -111,6 +111,5 @@ Will Smith
 Chris Pine
 Richard Branson
 James Cameron
-Sam Smith
 Serena Williams
 Anne Hathaway
