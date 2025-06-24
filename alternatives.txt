@@ -1,115 +1,116 @@
-Michael Phelps
-Mukesh Ambani
-Larry Page
-Chrissy Teigen
-Reese Witherspoon
-Robert Downey Jr
-Tom Brady
-Agatha Christie
-Emily Blunt
-Shawn Mendes
-Bill Gates
-Miley Cyrus
-Kate Hudson
-Jason Momoa
-Sundar Pichai
-Vin Diesel
-Stephen King
-Chris Evans
-Joe Rogan
-Hugh Grant
-Angelina Jolie
-LeBron James
-Leonardo DiCaprio
-Warren Buffett
-Martha Stewart
-Tim Burton
-Ava DuVernay
-Quentin Tarantino
-Mark Twain
-Reed Hastings
-Jennifer Aniston
-Keira Knightley
-Ariana Grande
-Emma Stone
-Greta Gerwig
-Simon Cowell
-Jeff Bezos
-Gordon Ramsay
-Jack Dorsey
-David Letterman
-Kendrick Lamar
-Christian Bale
-Steve Jobs
-Tom Hanks
-Julia Roberts
-Justin Bieber
-Satya Nadella
-Gal Gadot
-Harrison Ford
-Tiger Woods
-Lady Gaga
-Terry Pratchett
-Martin Scorsese
-Harry Styles
-Megan Rapinoe
-Ed Sheeran
-Emma Watson
-Trevor Noah
-James Corden
-David Harbour
-Meryl Streep
-Margot Robbie
-Nicole Kidman
-Christopher Nolan
-Blacke Lively
-Carlos Ghosn
-Steven Spielberg
-Post Malone
-Natalie Dormer
-Chris Hemsworth
-Taylor Swift
-John Boyega
-Oprah Winfrey
-Jessica Chastain
-Seth Meyers
-Larry Ellison
-Ron Howard
-Paris Hilton
-Khloe Kardashian
-Morgan Freeman
-Stephen Curry
-Elon Musk
-Charlize Theron
-Halle Berry
-Tom Holland
-Olivia Rodrigo
-Ellen DeGeneres
-Kylie Jenner
-Kate Winslet
-Chris Pratt
-Amy Poehler
-Brad Pitt
-Addison Rae
-Tom Jones
-Oscar Isaac
-Adam Driver
-John Green
-Martin Luther King
-Katy Perry
-Ricky Gervais
-Dwayne Johnson
-Kendall Jenner
-John Krasinski
-Jessica Alba
-Simone Biles
-Sheryl Crow
-Kim Kardashian
-Natalie Portman
-Zadie Smith
-Will Smith
-Chris Pine
-Richard Branson
-James Cameron
-Serena Williams
-Anne Hathaway
+Michael Phelps | Athlete
+Mukesh Ambani | Businessman
+Larry Page | Entrepreneur
+Chrissy Teigen | Model
+Reese Witherspoon | Actor
+Robert Downey Jr | Actor
+Tom Brady | Athlete
+Agatha Christie | Writer
+Emily Blunt | Actor
+Shawn Mendes | Singer
+Bill Gates | Businessman
+Miley Cyrus | Singer
+Kate Hudson | Actor
+Jason Momoa | Actor
+Sundar Pichai | Businessman
+Vin Diesel | Actor
+Stephen King | Writer
+Chris Evans | Actor
+Joe Rogan | Comedian
+Hugh Grant | Actor
+Angelina Jolie | Actor
+LeBron James | Athlete
+Leonardo DiCaprio | Actor
+Warren Buffett | Businessman
+Martha Stewart | Businesswoman
+Tim Burton | Director
+Ava DuVernay | Director
+Quentin Tarantino | Director
+Mark Twain | Writer
+Reed Hastings | Businessman
+Jennifer Aniston | Actor
+Keira Knightley | Actor
+Ariana Grande | Singer
+Emma Stone | Actor
+Greta Gerwig | Director
+Simon Cowell | Producer
+Jeff Bezos | Businessman
+Gordon Ramsay | Chef
+Jack Dorsey | Businessman
+David Letterman | TV Host
+Kendrick Lamar | Singer
+Christian Bale | Actor
+Steve Jobs | Businessman
+Tom Hanks | Actor
+Julia Roberts | Actor
+Justin Bieber | Singer
+Satya Nadella | Businessman
+Gal Gadot | Actor
+Harrison Ford | Actor
+Tiger Woods | Athlete
+Lady Gaga | Singer
+Terry Pratchett | Writer
+Martin Scorsese | Director
+Harry Styles | Singer
+Megan Rapinoe | Athlete
+Ed Sheeran | Singer
+Emma Watson | Actor
+Trevor Noah | Host
+James Corden | Host
+David Harbour | Actor
+Meryl Streep | Actor
+Margot Robbie | Actor
+Nicole Kidman | Actor
+Christopher Nolan | Director
+Blacke Lively | Actor
+Carlos Ghosn | Businessman
+Steven Spielberg | Director
+Post Malone | Singer
+Natalie Dormer | Actor
+Chris Hemsworth | Actor
+Taylor Swift | Singer
+John Boyega | Actor
+Oprah Winfrey | Host
+Jessica Chastain | Actor
+Seth Meyers | Host
+Larry Ellison | Businessman
+Ron Howard | Director
+Paris Hilton | Socialite
+Khloe Kardashian | Socialite
+Morgan Freeman | Actor
+Stephen Curry | Athlete
+Elon Musk | Businessman
+Charlize Theron | Actor
+Halle Berry | Actor
+Tom Holland | Actor
+Olivia Rodrigo | Singer
+Ellen DeGeneres | Host
+Kylie Jenner | Socialite
+Kate Winslet | Actor
+Chris Pratt | Actor
+Amy Poehler | Comedian
+Brad Pitt | Actor
+Addison Rae | Socialite
+Tom Jones | Singer
+Oscar Isaac | Actor
+Adam Driver | Actor
+John Green | Writer
+Martin Luther King | Activist
+Katy Perry | Singer
+Ricky Gervais | Comedian
+Dwayne Johnson | Actor
+Kendall Jenner | Socialite
+John Krasinski | Actor
+Jessica Alba | Actor
+Simone Biles | Athlete
+Sheryl Crow | Singer
+Kim Kardashian | Socialite
+Natalie Portman | Actor
+Zadie Smith | Writer
+Will Smith | Actor
+Chris Pine | Actor
+Richard Branson | Businessman
+James Cameron | Director
+Serena Williams | Athlete
+Anne Hathaway | Actor
+Ben Affleck | Actor

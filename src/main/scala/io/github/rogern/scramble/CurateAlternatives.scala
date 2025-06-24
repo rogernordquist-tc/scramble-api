@@ -19,11 +19,12 @@ object CurateAlternatives extends App {
   }.getOrElse(sys.error(s"Could not read words file $wordsPath"))
 
   private val alternatives = Using(Source.fromURI(URI.create(alternativesPath))) { uri =>
-    uri.getLines().toSet.toSeq
+    uri.getLines().distinct.toSeq
   }.getOrElse(sys.error(s"Could not read alternatives file $alternativesPath"))
 
-  private val (notOk, ok) = alternatives.partitionMap { alt =>
-    ge.scrambleWords(alt.toLowerCase(GameEngine.Locale).split(" ")).map(_ => alt)
+  private val (notOk, ok) = alternatives.partitionMap { raw =>
+    val alt = GameEngine.getAlt(raw)
+    ge.scrambleWords(alt.toLowerCase(GameEngine.Locale).split(" ")).map(_ => raw)
   }
   notOk.foreach { case (notOkMsg, _) =>
     println(notOkMsg)

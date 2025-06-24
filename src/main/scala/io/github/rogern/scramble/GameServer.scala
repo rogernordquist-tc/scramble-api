@@ -10,7 +10,7 @@ import scala.util.chaining.scalaUtilChainingOps
 
 object GameServer extends cask.MainRoutes {
 
-  case class Scramble(scramble: String, rightAnswer: String)
+  case class Scramble(scramble: String, rightAnswer: String, hint: String)
 
   object Scramble {
     implicit val rw: ReadWriter[Scramble] = macroRW
@@ -19,14 +19,15 @@ object GameServer extends cask.MainRoutes {
   @cask.getJson("/scramble")
   def giveScramble() = {
     def run = (for {
-      alt <- rand.shuffle(alternatives).headOption.toRight("No alternatives found").left.map(_ -> 0)
-      result <- ge.scrambleWords(alt.trim.split(" "))
+      raw <- rand.shuffle(alternatives).headOption.toRight("No alternatives found").left.map(_ -> 0)
+      alt = GameEngine.getAlt(raw)
+      result <- ge.scrambleWords(alt.split(" "))
       (scrambledWords, _) = result
-    } yield Scramble(scrambledWords.mkString(" "), alt)).tap { res =>
+    } yield Scramble(scrambledWords.mkString(" "), alt, GameEngine.getHint(raw))).tap { res =>
       res.foreach {
-        case Scramble(scramble, rightAnswer) =>
+        case Scramble(scramble, rightAnswer, hint) =>
           if (logResponse) {
-            println(s"Scramble: $scramble, Right Answer: $rightAnswer")
+            println(s"Scramble: $scramble, Right Answer: $rightAnswer, Hint: $hint")
           }
       }
     }

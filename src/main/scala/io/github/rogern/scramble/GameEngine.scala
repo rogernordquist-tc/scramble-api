@@ -72,6 +72,14 @@ object GameEngine {
     word.toCharArray.sorted.mkString
   }
 
+  def getAlt(raw: String): String = {
+    raw.substring(0, raw.lastIndexOf('|')).trim
+  }
+
+  def getHint(raw: String): String = {
+    raw.substring(raw.lastIndexOf('|') + 1).trim
+  }
+
   private def filterList(list: List[String]): List[String] = {
     list
       .filterNot(_.length > WordLengthCap)
