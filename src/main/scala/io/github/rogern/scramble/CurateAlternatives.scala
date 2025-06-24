@@ -19,7 +19,7 @@ object CurateAlternatives extends App {
   }.getOrElse(sys.error(s"Could not read words file $wordsPath"))
 
   private val alternatives = Using(Source.fromURI(URI.create(alternativesPath))) { uri =>
-    uri.getLines().toSeq
+    uri.getLines().toSet.toSeq
   }.getOrElse(sys.error(s"Could not read alternatives file $alternativesPath"))
 
   private val (notOk, ok) = alternatives.partitionMap { alt =>

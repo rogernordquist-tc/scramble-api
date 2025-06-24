@@ -6,6 +6,7 @@ import upickle.default._
 import java.net.URI
 import scala.io.Source
 import scala.util.Using
+import scala.util.chaining.scalaUtilChainingOps
 
 object GameServer extends cask.MainRoutes {
 
@@ -17,11 +18,18 @@ object GameServer extends cask.MainRoutes {
 
   @cask.getJson("/scramble")
   def giveScramble() = {
-    def run = for {
+    def run = (for {
       alt <- rand.shuffle(alternatives).headOption.toRight("No alternatives found").left.map(_ -> 0)
       result <- ge.scrambleWords(alt.trim.split(" "))
       (scrambledWords, _) = result
-    } yield Scramble(scrambledWords.mkString(" "), alt)
+    } yield Scramble(scrambledWords.mkString(" "), alt)).tap { res =>
+      res.foreach {
+        case Scramble(scramble, rightAnswer) =>
+          if (logResponse) {
+            println(s"Scramble: $scramble, Right Answer: $rightAnswer")
+          }
+      }
+    }
 
     def logErr(leftContent: (String, Int)) = {
       val (err, findMatchCount) = leftContent
@@ -46,6 +54,7 @@ object GameServer extends cask.MainRoutes {
   val config = ConfigFactory.load("application")
   val alternativesPath = config.getString("scramble-api.alternatives")
   val wordsPath = config.getString("scramble-api.words")
+  val logResponse = config.getBoolean("scramble-api.log-response")
 
   val ge = Using(Source.fromURI(URI.create(wordsPath))) { uri =>
     new GameEngine(uri)
