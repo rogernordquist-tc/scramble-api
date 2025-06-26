@@ -1,116 +1,120 @@
-Michael Phelps | Athlete
-Mukesh Ambani | Businessman
-Larry Page | Entrepreneur
-Chrissy Teigen | Model
-Reese Witherspoon | Actor
-Robert Downey Jr | Actor
-Tom Brady | Athlete
-Agatha Christie | Writer
-Emily Blunt | Actor
-Shawn Mendes | Singer
-Bill Gates | Businessman
-Miley Cyrus | Singer
-Kate Hudson | Actor
-Jason Momoa | Actor
-Sundar Pichai | Businessman
-Vin Diesel | Actor
-Stephen King | Writer
-Chris Evans | Actor
-Joe Rogan | Comedian
-Hugh Grant | Actor
-Angelina Jolie | Actor
-LeBron James | Athlete
-Leonardo DiCaprio | Actor
-Warren Buffett | Businessman
-Martha Stewart | Businesswoman
-Tim Burton | Director
-Ava DuVernay | Director
-Quentin Tarantino | Director
-Mark Twain | Writer
-Reed Hastings | Businessman
-Jennifer Aniston | Actor
-Keira Knightley | Actor
-Ariana Grande | Singer
-Emma Stone | Actor
-Greta Gerwig | Director
-Simon Cowell | Producer
-Jeff Bezos | Businessman
-Gordon Ramsay | Chef
-Jack Dorsey | Businessman
-David Letterman | TV Host
-Kendrick Lamar | Singer
-Christian Bale | Actor
-Steve Jobs | Businessman
-Tom Hanks | Actor
-Julia Roberts | Actor
-Justin Bieber | Singer
-Satya Nadella | Businessman
-Gal Gadot | Actor
-Harrison Ford | Actor
-Tiger Woods | Athlete
-Lady Gaga | Singer
-Terry Pratchett | Writer
-Martin Scorsese | Director
-Harry Styles | Singer
-Megan Rapinoe | Athlete
-Ed Sheeran | Singer
-Emma Watson | Actor
-Trevor Noah | Host
-James Corden | Host
-David Harbour | Actor
-Meryl Streep | Actor
-Margot Robbie | Actor
-Nicole Kidman | Actor
-Christopher Nolan | Director
-Blacke Lively | Actor
-Carlos Ghosn | Businessman
-Steven Spielberg | Director
-Post Malone | Singer
-Natalie Dormer | Actor
-Chris Hemsworth | Actor
-Taylor Swift | Singer
-John Boyega | Actor
-Oprah Winfrey | Host
-Jessica Chastain | Actor
-Seth Meyers | Host
-Larry Ellison | Businessman
-Ron Howard | Director
-Paris Hilton | Socialite
-Khloe Kardashian | Socialite
-Morgan Freeman | Actor
-Stephen Curry | Athlete
-Elon Musk | Businessman
-Charlize Theron | Actor
-Halle Berry | Actor
-Tom Holland | Actor
-Olivia Rodrigo | Singer
-Ellen DeGeneres | Host
-Kylie Jenner | Socialite
-Kate Winslet | Actor
-Chris Pratt | Actor
-Amy Poehler | Comedian
-Brad Pitt | Actor
-Addison Rae | Socialite
-Tom Jones | Singer
-Oscar Isaac | Actor
-Adam Driver | Actor
-John Green | Writer
-Martin Luther King | Activist
-Katy Perry | Singer
-Ricky Gervais | Comedian
-Dwayne Johnson | Actor
-Kendall Jenner | Socialite
-John Krasinski | Actor
-Jessica Alba | Actor
-Simone Biles | Athlete
-Sheryl Crow | Singer
-Kim Kardashian | Socialite
-Natalie Portman | Actor
-Zadie Smith | Writer
-Will Smith | Actor
-Chris Pine | Actor
-Richard Branson | Businessman
-James Cameron | Director
-Serena Williams | Athlete
-Anne Hathaway | Actor
-Ben Affleck | Actor
+Michael Phelps | Most decorated Olympic swimmer
+Mukesh Ambani | Chairman of Reliance Industries
+Larry Page | Co-founder of Google
+Chrissy Teigen | Model and TV personality
+Reese Witherspoon | Oscar-winning actress
+Robert Downey Jr | Played Iron Man in Marvel films
+Tom Brady | NFL quarterback, Super Bowl champion
+Agatha Christie | Best-selling mystery novelist
+Emily Blunt | Star of "A Quiet Place"
+Shawn Mendes | Pop singer-songwriter
+Bill Gates | Co-founder of Microsoft
+Miley Cyrus | Singer and actress, "Hannah Montana"
+Kate Hudson | Actress, "Almost Famous"
+Jason Momoa | Played Aquaman in DC films
+Sundar Pichai | CEO of Google and Alphabet
+Vin Diesel | Star of "Fast & Furious" franchise
+Stephen King | Prolific horror novelist
+Chris Evans | Played Captain America in Marvel films
+Joe Rogan | Host of "The Joe Rogan Experience"
+Hugh Grant | Star of romantic comedies
+Angelina Jolie | Oscar-winning actress, humanitarian
+LeBron James | NBA superstar
+Leonardo DiCaprio | Oscar-winning actor
+Warren Buffett | Renowned investor, Berkshire Hathaway CEO
+Martha Stewart | Lifestyle guru and TV host
+Tim Burton | Director of "Edward Scissorhands"
+Ava DuVernay | Director of "Selma"
+Quentin Tarantino | Director of "Pulp Fiction"
+Mark Twain | Author of "Tom Sawyer"
+Reed Hastings | Co-founder of Netflix
+Jennifer Aniston | Star of "Friends"
+Keira Knightley | Actress, "Pirates of the Caribbean"
+Ariana Grande | Pop singer and actress
+Emma Stone | Oscar-winning actress
+Greta Gerwig | Director of "Barbie" and "Lady Bird"
+Simon Cowell | TV talent show judge
+Jeff Bezos | Founder of Amazon
+Gordon Ramsay | Celebrity chef and TV host
+Jack Dorsey | Co-founder of Twitter
+David Letterman | Longtime late-night TV host
+Kendrick Lamar | Pulitzer-winning rapper
+Christian Bale | Oscar-winning actor
+Steve Jobs | Co-founder of Apple
+Tom Hanks | Oscar-winning actor
+Julia Roberts | Oscar-winning actress
+Justin Bieber | Pop singer
+Satya Nadella | CEO of Microsoft
+Gal Gadot | Played Wonder Woman
+Harrison Ford | Star of "Indiana Jones" and "Star Wars"
+Tiger Woods | Champion golfer
+Lady Gaga | Pop star and actress
+Terry Pratchett | Author of "Discworld" series
+Martin Scorsese | Acclaimed film director
+Harry Styles | Singer and actor, One Direction
+Megan Rapinoe | World Cup-winning soccer player
+Ed Sheeran | Singer-songwriter
+Emma Watson | Played Hermione in "Harry Potter"
+Trevor Noah | Host of "The Daily Show"
+James Corden | Host of "The Late Late Show"
+David Harbour | Played Hopper in "Stranger Things"
+Meryl Streep | Multiple Oscar-winning actress
+Margot Robbie | Star of "Barbie" and "I, Tonya"
+Nicole Kidman | Oscar-winning actress
+Christopher Nolan | Director of "Inception"
+Blacke Lively | Star of "Gossip Girl"
+Carlos Ghosn | Former Nissan CEO
+Steven Spielberg | Legendary film director
+Post Malone | Rapper and singer
+Natalie Dormer | Star of "Game of Thrones"
+Chris Hemsworth | Played Thor in Marvel films
+Taylor Swift | Grammy-winning singer-songwriter
+John Boyega | Star of "Star Wars" sequels
+Oprah Winfrey | Influential talk show host
+Jessica Chastain | Oscar-winning actress
+Seth Meyers | Host of "Late Night"
+Larry Ellison | Co-founder of Oracle
+Ron Howard | Director and former child actor
+Paris Hilton | Socialite and media personality
+Khloe Kardashian | Reality TV star
+Morgan Freeman | Oscar-winning actor
+Stephen Curry | NBA MVP and champion
+Elon Musk | CEO of Tesla and SpaceX
+Charlize Theron | Oscar-winning actress
+Halle Berry | Oscar-winning actress
+Tom Holland | Played Spider-Man in Marvel films
+Olivia Rodrigo | Singer-songwriter, "drivers license"
+Ellen DeGeneres | Comedian and talk show host
+Kylie Jenner | Beauty mogul and reality star
+Kate Winslet | Oscar-winning actress
+Chris Pratt | Star of "Guardians of the Galaxy"
+Amy Poehler | Comedian, "Parks and Recreation"
+Brad Pitt | Oscar-winning actor
+Addison Rae | Social media influencer
+Tom Jones | Singer, "It's Not Unusual"
+Oscar Isaac | Star of "Star Wars" and "Dune"
+Adam Driver | Star of "Star Wars" and "Marriage Story"
+John Green | Author of "The Fault in Our Stars"
+Martin Luther King | Civil rights leader
+Katy Perry | Pop singer
+Ricky Gervais | Comedian and creator of "The Office"
+Dwayne Johnson | Wrestler and actor, "The Rock"
+Kendall Jenner | Model and reality TV star
+John Krasinski | Star of "The Office"
+Jessica Alba | Actress and entrepreneur
+Simone Biles | Olympic gold medal gymnast
+Sheryl Crow | Singer-songwriter
+Kim Kardashian | Reality TV star and entrepreneur
+Natalie Portman | Oscar-winning actress
+Zadie Smith | Novelist, "White Teeth"
+Will Smith | Actor and rapper
+Chris Pine | Star of "Star Trek" films
+Richard Branson | Founder of Virgin Group
+James Cameron | Director of "Titanic" and "Avatar"
+Serena Williams | Tennis Grand Slam champion
+Anne Hathaway | Oscar-winning actress
+Ben Affleck | Actor and director
+George Clooney | Oscar-winning actor and director
+George Bush | Former President of the United States
+Rami Malek | Oscar-winning actor, "Bohemian Rhapsody"
+Kylie Minogue | Pop singer and actress
